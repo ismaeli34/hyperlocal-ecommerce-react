@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hyperlocal E-commerce  React Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This hyperlocal ecommerce react application is an online application that facilitates the buying and selling of products or services within a specific localized area.
 
 ## Hyper Local E-commerce application screenshots
 
